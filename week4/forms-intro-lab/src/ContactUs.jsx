@@ -85,6 +85,7 @@ function ContactUs() {
           <textarea
             id='comments'
             name='comments'
+            placeholder="The default colour of the text in the exercise is white which makes it hard to see as it looks like it doesn't update. I set it to black in css, idk if it's intentional"
             onChange={e => setComments(e.target.value)}
             value={comments}
           />
