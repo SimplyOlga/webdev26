@@ -43,7 +43,7 @@ textarea {
   border-radius: 8px;
   outline: none;
   background: #fff;
-  color: black; /*added black to the input text because it was white on white and that's not good design*/
+  /*color: black; /*added black to the input text because it was white on white and that's not good design*/
 }
 
 textarea {
